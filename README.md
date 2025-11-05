@@ -53,21 +53,30 @@ Financial organizations receive millions of transactions daily but detecting fra
 • **Goal of the Project**
 
 To build a predictive model that can:
+
 Detect fraudulent cases using features & patterns
+
 Reduce financial risks for institutions
+
 Improve fraud monitoring & prevention strategies
 
 • **Modelling Steps**
 
 Data Cleaning & Preprocessing
+
 Handle Imbalance using SMOTE
+
 Model Training 
+
 Model Evaluation using  Acurracy score
 
 
 • **Business Impact & Insights**
 
 Increases security in online payments
+
 Helps financial companies reduce fraud-related losses
+
 Improves customer trust and safety
+
 Supports risk & compliance monitoring teams
