@@ -36,9 +36,13 @@ Source: Credit Card Transactions dataset (csv)
 Dataset includes information about:
 
 Transaction Amount
+
 Transaction Time
+
 Transaction Type
+
 Merchant details
+
 Status (Fraud / Legit)
 
 This dataset helps understand behavioural transaction patterns and identify anomalies that indicate fraud.
