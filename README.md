@@ -1,6 +1,5 @@
 # credit_card_fraud_detection
 
-
 A machine learning based project that identifies suspicious transactions using data-driven patterns and predictive modelling approach.
 
 
