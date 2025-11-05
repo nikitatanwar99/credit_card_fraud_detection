@@ -46,7 +46,7 @@ This dataset helps understand behavioural transaction patterns and identify anom
 
 **Features**
 
-•** Business Problem**
+•**Business Problem**
 
 Financial organizations receive millions of transactions daily but detecting fraud in real-time is extremely challenging because fraudulent cases are very small compared to genuine ones.
 
@@ -61,8 +61,8 @@ Improve fraud monitoring & prevention strategies
 
 Data Cleaning & Preprocessing
 Handle Imbalance using SMOTE
-Model Training (baseline & advanced models)
-Model Evaluation using Precision, Recall, ROC-AUC
+Model Training 
+Model Evaluation using  Acurracy score
 
 
 • **Business Impact & Insights**
